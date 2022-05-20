@@ -1,0 +1,8 @@
+print(bin(10))
+print(bin(13))
+print(bin(10&13))
+print(10&13)
+print(10|13)
+print(10^13)
+print(10<<2)
+print(10>>2)
